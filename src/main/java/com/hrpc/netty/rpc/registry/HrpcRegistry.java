@@ -13,6 +13,7 @@ import io.netty.handler.codec.serialization.ObjectEncoder;
 
 /**
  * @author huoji
+ * 服务端 ，注册中心
  */
 public class HrpcRegistry {
 

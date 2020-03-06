@@ -6,6 +6,7 @@ import java.io.Serializable;
 
 /**
  * @author huoji
+ * 协议层
  */
 @Data
 public class InvokerProtocol  implements Serializable{

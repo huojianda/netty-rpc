@@ -18,6 +18,7 @@ import java.lang.reflect.Proxy;
 
 /**
  * @author huoji
+ * 客户端 代理
  */
 public class HrpcProxy {
 
